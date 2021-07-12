@@ -10,7 +10,7 @@ python3 cpfOA.py
 Or from Python3 REPL, for salary $2000 and 10 years saved:
 
 ```
-import cpfOA.py
+from cpfOA import cpf as cpf
 cpf(2000, 10)
 ```
 
