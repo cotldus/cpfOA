@@ -27,4 +27,5 @@ CPF OA interest rate at 2.5%
 
 Salary allows floating number.
 Years take in whole number.
+Salary is set to $6000 for amounts above $6000 to account for contribution limit.
 
