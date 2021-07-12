@@ -3,12 +3,16 @@ Simple CPFOA calculator given salary and years
 
 # Run
 From command line run
-```python3 cpfOA.py```
+```
+python3 cpfOA.py
+```
 
 Or from Python3 REPL, for salary $2000 and 10 years saved:
 
-```import cpfOA.py
-cpf(2000, 10)```
+```
+import cpfOA.py
+cpf(2000, 10)
+```
 
 # Assumptions
 CPF OA 
