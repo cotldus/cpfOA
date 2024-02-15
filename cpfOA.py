@@ -1,6 +1,6 @@
 def cpf(salary, years):
-    if (salary>6000):
-        salary = 6000
+    if (salary>6800):
+        salary = 6800
     contribution = salary * 0.23
     i = 0
     savings = 0
